@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #ccb94a;
+  font-style: italic;
+  text-align: center;
+}
+
+body {
+  background-color: #9bebee;
+  color: #ccb94a;
+}
+
+.flashy {
+  color:#da6175;
+  font-style: italic;
+}
+
+.best {
+  color: #b33a94;
+  font-weight: bold;
+}
